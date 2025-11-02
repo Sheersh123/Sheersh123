@@ -2,7 +2,7 @@
 
 # 🚀 Sheersh Sinha — DevOps Explorer & Cloud Engineer
 
-![DevOps Banner](https://user-images.githubusercontent.com/12345678/189123456-devops-banner.png) <!-- You can create a custom banner in Canva or use a royalty-free image -->
+![Coding Banner](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1000&q=80)
 
 > “Building infrastructure that never sleeps; learning skills that never stop.”
 
