@@ -1,96 +1,89 @@
-<!-- Profile README: Recruiter-Focused and Visual -->
+<!-- Profile README with Visuals and Tools Showcase -->
 
-# 👋 Hi, I'm Sheersh Sinha
+# 🚀 Sheersh Sinha — DevOps Explorer & Cloud Engineer
 
-**DevOps Engineer | Cloud Practitioner | Open to Opportunities**
+![DevOps Banner](https://user-images.githubusercontent.com/12345678/189123456-devops-banner.png) <!-- You can create a custom banner in Canva or use a royalty-free image -->
 
-I’m a computer science graduate specializing in DevOps, Cloud, and Infrastructure Automation. Proactive learner with hands-on experience in Docker, Kubernetes, Terraform, AWS, and CI/CD pipelines. Always exploring new technologies and open to DevOps/Cloud roles!
+> “Building infrastructure that never sleeps; learning skills that never stop.”
 
----
-
-## 🚀 Skills & Technologies
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+🌟 **Not your average engineer—I'm a hands-on DevOps builder, automation enthusiast, and open documentation advocate!**
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tools & Technologies
 
-- **[bash-log-analyzer](https://github.com/Sheersh123/bash-log-analyzer)**  
-  Shell-based log analysis tool for DevOps monitoring.
+<div align="center">
+  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-- **[Autorecon_Bot](https://github.com/Sheersh123/Autorecon_Bot)**  
-  Python & Shell automated reconnaissance for security assessments.
-
-- **[todo-app](https://github.com/Sheersh123/todo-app)**  
-  JavaScript-based productivity web application.
-
-- **[FLASK-API](https://github.com/Sheersh123/FLASK-API)**  
-  Sample RESTful API using Python Flask.
-
-- **[Docker-task](https://github.com/Sheersh123/Docker-task)**  
-  Containerization hands-on demos.
-
-- **[Real-Time-Chat-Application](https://github.com/Sheersh123/Real-Time-Chat-Application)**  
-  Full-stack socket-driven chat app.
-
-- **[DevOps-Projects](https://github.com/Sheersh123/DevOps-Projects)**  
-  Collection of DevOps challenges with automation focus.
+</div>
 
 ---
 
-## 🎓 Education & Training
+## 🌟 My Learning Philosophy
 
-- BTech, Computer Science
-- DevOps Bootcamp, TraceLayNetwork
-- AWS Cloud Practitioner (preparing)
-
----
-
-## 📝 Blog & Articles
-
-- [Dev.to Profile](https://dev.to/sheershsinha)  
-- [How I Containerized My First App](https://dev.to/sheershsinha) *(example, replace with real)*
+- **Project-centric:** I measure my growth by hands-on builds, automation scripts, and troubleshooting logs—not by theory.
+- **Document-centric:** Every repo tells a story—of failures, iterations, and breakthroughs.
+- **Community-driven:** I share, mentor, and contribute in open-source communities.
 
 ---
 
-## 🤝 Contact & Social
+## 📂 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-Sheersh%20Sinha-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/sheershsinha)](https://linkedin.com/in/sheershsinha)
-[![Email](https://img.shields.io/badge/-sheershsinha30@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sheershsinha30@gmail.com)
-[![Dev.to](https://img.shields.io/badge/-sheershsinha-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/sheershsinha)
+<p align="center">
+  <a href="https://github.com/Sheersh123/bash-log-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheersh123&repo=bash-log-analyzer" /></a>
+  <a href="https://github.com/Sheersh123/Autorecon_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheersh123&repo=Autorecon_Bot" /></a>
+  <a href="https://github.com/Sheersh123/todo-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheersh123&repo=todo-app" /></a>
+</p>
+
+- **[FLASK-API](https://github.com/Sheersh123/FLASK-API):** RESTful Python API in Docker
+- **[Docker-task](https://github.com/Sheersh123/Docker-task):** Container demos and automation
+- **[Real-Time-Chat-Application](https://github.com/Sheersh123/Real-Time-Chat-Application):** Full-stack socket app
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Education
 
-![Sheersh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sheersh123&show_icons=true&hide_title=true)
-![Profile Views](https://komarev.com/ghpvc/?username=Sheersh123&color=blue)
+- **BTech CSE (Cyber Security)**, SRM Institute of Science and Technology
 
 ---
 
-*Thank you for visiting! I'm open to new connections and opportunities — let’s build something awesome together!*
+## 📝 Articles & Blogs
 
+- [Dev.to Profile](https://dev.to/sheershsinha)
+- [How I Containerized My First App](https://dev.to/sheershsinha)
+  
+---
 
-<!--
-**Sheersh123/Sheersh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Connect With Me
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sheershsinha)
+  [![Gmail](https://img.shields.io/badge/-sheershsinha30@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sheershsinha30@gmail.com)
+  [![Dev.to](https://img.shields.io/badge/-Dev.to-black?logo=dev.to&logoColor=white&style=for-the-badge)](https://dev.to/sheershsinha)
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 GitHub Profile Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sheersh123&show_icons=true&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=Sheersh123&color=blue" />
+</p>
+
+---
+
+*Thanks for visiting! I love connecting with anyone keen on DevOps, Cloud, and automation—let’s build together! 🚀*
+
