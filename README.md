@@ -79,10 +79,22 @@
 ## 📈 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheersh123&show_icons=true&theme=radical" />
+  <!-- Shows most used languages (customized to highlight DevOps/Python) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheersh123&layout=compact&langs_count=8&hide=html,CSS,C&theme=radical" />
+</p>
+
+<p align="center">
+  <!-- Shows your contribution count and activity -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheersh123&theme=radical" />
+</p>
+
+<p align="center">
+  <!-- Shows GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sheersh123&show_icons=true&theme=radical&hide_title=true" />
   <img src="https://komarev.com/ghpvc/?username=Sheersh123&color=blue" />
 </p>
 
+**💡 142+ total contributions! Focused on DevOps, Python and automation—not just C!**
 ---
 
 *Thanks for visiting! I love connecting with anyone keen on DevOps, Cloud, and automation—let’s build together! 🚀*
