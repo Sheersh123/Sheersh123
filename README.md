@@ -60,7 +60,7 @@
 ## 📝 Articles & Blogs
 
 - [Dev.to Profile](https://dev.to/sheershsinha)
-- [How I Containerized My First App](https://dev.to/sheershsinha)
+
   
 ---
 
