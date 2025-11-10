@@ -94,7 +94,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sheersh123&color=blue" />
 </p>
 
-**💡 142+ total contributions! Focused on DevOps, Python and automation—not just C!**
+**💡 150+ total contributions! Focused on DevOps, Python and automation—not just C!**
 ---
 
 *Thanks for visiting! I love connecting with anyone keen on DevOps, Cloud, and automation—let’s build together! 🚀*
